@@ -1,0 +1,12 @@
+GET_RELATIONSHIP Laki Paternal-Uncle
+ADD_SPOUSE Steve Tina
+ADD_SPOUSE Steve Mina
+ADD_SPOUSE Robert Tina
+ADD_CHILD Steve Aras Male
+ADD_CHILD Mina Aras Male
+ADD_CHILD Tina Aras Male
+GET_RELATIONSHIP Steve Son
+GET_RELATIONSHIP Steve Daughter
+GET_RELATIONSHIP Tina Brother-In-Law
+GET_RELATIONSHIP Robert Paternal-Uncle
+

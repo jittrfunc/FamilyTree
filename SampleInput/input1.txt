@@ -1,0 +1,51 @@
+ADD_SPOUSE Shan Anga
+ADD_CHILD Anga Chit Male
+ADD_CHILD Anga Ish Male
+ADD_CHILD Anga Vich Male
+ADD_CHILD Anga Aras Male
+ADD_CHILD Anga Satya Female
+ADD_SPOUSE Chit Amba
+ADD_SPOUSE Vich Lika
+ADD_SPOUSE Aras Chitra
+ADD_SPOUSE Vyan Satya
+ADD_CHILD Amba Dritha Female
+ADD_CHILD Amba Tritha Female
+ADD_CHILD Amba Vritha Male
+ADD_CHILD Shan Kara Male
+ADD_CHILD Lika Vila Female
+ADD_CHILD Trina Shiva Male
+ADD_CHILD Lika Chika Female
+ADD_CHILD Chitra Jnki Female
+ADD_CHILD Chitra Ahit Male
+ADD_CHILD Satya Asva Male
+ADD_CHILD Satya Vyas Male
+ADD_CHILD Satya Atya Female
+ADD_SPOUSE Jaya Dritha
+ADD_SPOUSE Arit Jnki
+ADD_SPOUSE Asva Satvy
+ADD_SPOUSE Vyas Krpi
+ADD_CHILD Dritha Yodhan Male
+ADD_CHILD Jnki Laki Male
+ADD_CHILD Jnki Lavnya Female
+ADD_CHILD Kusum Janaki Female
+ADD_CHILD Satvy Vasa Male
+ADD_CHILD Krpi Kriya Male
+ADD_CHILD Krpi Krithi Female
+ADD_SPOUSE Vyas Dritha
+ADD_SPOUSE Vyas Simi
+GET_RELATIONSHIP Laki Paternal-Uncle
+GET_RELATIONSHIP Laki Maternal-Uncle
+GET_RELATIONSHIP Satya Son
+GET_RELATIONSHIP Kriya Maternal-Uncle
+GET_RELATIONSHIP Kriya Paternal-Uncle
+GET_RELATIONSHIP Tritha Brother-In-Law
+GET_RELATIONSHIP Atya Sister-In-Law
+GET_RELATIONSHIP Satvy Brother-In-Law
+GET_RELATIONSHIP Satvy Sister-In-Law
+GET_RELATIONSHIP Vich Siblings
+GET_RELATIONSHIP Ish Son
+GET_RELATIONSHIP Misha Daughter
+GET_RELATIONSHIP Chika Paternal-Aunt
+GET_RELATIONSHIP Yodhan Maternal-Aunt
+GET_RELATIONSHIP Tritha Maternal-Aunt
+
